@@ -1,4 +1,4 @@
-# NYUMachineLearning
+# NYU Machine Learning
 Team H: Stefano, Michael, Sam, and Isaac
 
 ## Fish Market Project
